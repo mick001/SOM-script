@@ -18,4 +18,4 @@ A R script to apply Self Organizing Maps (SOM) to satellite data in the form of 
 Carefully note that the script may or may not work with higher versions (assuming backward compatibility is ensured then higher versions of the packages can be used).
 
 ## Execution steps description
-Set parameters in SOM_script.R file and then run the entire script at once or line by line.
+Set parameters in SOM_clustering_main.R file and then run the entire script at once or line by line.
